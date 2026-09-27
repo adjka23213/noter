@@ -1,0 +1,16 @@
+{
+  "name": "noter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "noter.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "kadja",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "commander": "^14.0.2"
+  }
+}
