@@ -1,1 +1,1 @@
-A simple noting program
+A simple noting program writed on js
